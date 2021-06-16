@@ -1,0 +1,10 @@
+C:\Users\Parsa Arani\Desktop\Counter - شمارنده\Counter - شمارنده\bin\Debug\Counter - شمارنده.exe.config
+C:\Users\Parsa Arani\Desktop\Counter - شمارنده\Counter - شمارنده\bin\Debug\Counter - شمارنده.exe
+C:\Users\Parsa Arani\Desktop\Counter - شمارنده\Counter - شمارنده\bin\Debug\Counter - شمارنده.pdb
+C:\Users\Parsa Arani\Desktop\Counter - شمارنده\Counter - شمارنده\obj\Debug\Counter - شمارنده.csprojResolveAssemblyReference.cache
+C:\Users\Parsa Arani\Desktop\Counter - شمارنده\Counter - شمارنده\obj\Debug\Counter___شمارنده.Form1.resources
+C:\Users\Parsa Arani\Desktop\Counter - شمارنده\Counter - شمارنده\obj\Debug\Counter___شمارنده.Properties.Resources.resources
+C:\Users\Parsa Arani\Desktop\Counter - شمارنده\Counter - شمارنده\obj\Debug\Counter - شمارنده.csproj.GenerateResource.Cache
+C:\Users\Parsa Arani\Desktop\Counter - شمارنده\Counter - شمارنده\obj\Debug\Counter - شمارنده.exe
+C:\Users\Parsa Arani\Desktop\Counter - شمارنده\Counter - شمارنده\obj\Debug\Counter - شمارنده.pdb
+C:\Users\Parsa Arani\Desktop\Counter - شمارنده\Counter - شمارنده\obj\Debug\Counter___شمارنده.Form2.resources
